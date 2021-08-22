@@ -54,5 +54,5 @@ MT_UPDATE_CHANNEL :- Channel UserName (@ With Out)
 
 USER_SESSION :- [![USER_SESSION](https://img.shields.io/badge/Click-Here-red?style=flat&logo=telegram)](https://repl.it/@prgofficial/String-Gen)
 
-Channel id :- [![MoTechYT](https://img.shields.io/badge/Click-Here-red?style=flat&logo=telegram)](https://telegram.dog/ChannelIDHEXbot)
+Channel id :- [!-1001374757470/Click-Here-red?style=flat&logo=telegram)](https://telegram.dog/ChannelIDHEXbot)
 
