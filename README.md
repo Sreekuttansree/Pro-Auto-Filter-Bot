@@ -29,10 +29,10 @@
 
   </a> Check Link found for Result Q
   
-  <a href="https://github.com/MRK-YT/Pro-Auto-Filter-Bot/fork">
+  <a href="https://github.com/Sreekuttansree/fork">
     <img src="https://img.shields.io/github/forks/MRK-YT/Pro-Auto-Filter-Bot?label=Fork&style=social">
 
-  </a>  
+  </a> 
 </p>
 
 ### Deploy
