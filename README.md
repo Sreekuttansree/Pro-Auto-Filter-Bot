@@ -37,7 +37,7 @@
 
 ### Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)heroku.com/template=https://github.com/Sreekuttansree)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)(template=https://github.com/Sreekuttansree)</br>
 
 
 
