@@ -37,7 +37,7 @@
 
 ### Deploy
 
-[![Deploy](https://img.shields.io/github/forks/MRK-YT/Pro-Auto-Filter-Bot?label=Fork&style=social)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)
 
 
 ## Configs
