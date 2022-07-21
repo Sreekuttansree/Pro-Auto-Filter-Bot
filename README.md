@@ -37,7 +37,11 @@
 
 ### Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)heroku.com/deploy?template=https://github.com/Sreekuttansree)</br>
+
+
+
+  <
 
 
 ## Configs
