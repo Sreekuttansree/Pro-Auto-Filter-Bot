@@ -37,7 +37,7 @@
 
 ### Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sreekuttansree/Pro-Auto-Filter-Bot)
 
 
 
